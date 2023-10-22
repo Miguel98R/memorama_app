@@ -19,7 +19,7 @@ Para poder visualizar y ejecutar Memorama App, asegúrate de tener Expo instalad
 Clona o descarga el repositorio de GitHub en tu máquina local.
 
 ```bash
-git clone https://github.com/tu-usuario/memorama-app.git
+git clone https://github.com/Miguel98R/memorama_app
 ```
 Instala las dependencias utilizando npm
 ```bash
